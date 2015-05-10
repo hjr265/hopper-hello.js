@@ -1,0 +1,11 @@
+{
+  "name": "hopper-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Mahmud Ridwan <m@hjr265.me>",
+  "license": "Public domain",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
